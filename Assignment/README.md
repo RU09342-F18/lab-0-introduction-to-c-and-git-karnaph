@@ -1,4 +1,6 @@
 Math.c ReadMe File
+Karlie Naphy
+9/10/2018
 
 The file consists of one funtion. The function 'math' take 3 arguments
 - num1
